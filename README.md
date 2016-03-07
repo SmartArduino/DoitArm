@@ -5,7 +5,7 @@ An open source WiFi controlled 6 DOF robot arm on tank is designed in this proje
    </br>
 The software is designed based on the project: https://github.com/esp8266/Arduino. A http webserver and UDP server are embedded. OTA function is integrated to update firmware freely. Robot inverse kinematics algorithm is implemented on ESPDuino. The end effector can be moved in tool or cartier coordinate system like a commercial robot arm! A simple UDP based command line interface is provided for controlling. </br>
 
-<#>Highlights:</br>
+Highlights:</br>
 - 1, WiFi controlled 6-axis robot arm on Tank with ESPDuino.
 - 2, ABB IRB4400 6-axis Industrial robots scaled model. Tank is T300 from Doit team.
 - 3, Robot inverse kinematics algorithm running on ESP8266
