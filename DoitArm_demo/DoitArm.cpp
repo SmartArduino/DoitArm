@@ -226,6 +226,8 @@ bool DoitArm::calcReverseKinematics(stMat *t, svTheta*v)
     return false;
   }
 //to be continued
+//provide to our customer only.
+//service@doit.am for more information
   return true;
 }
 
